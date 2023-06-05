@@ -32,7 +32,8 @@ def gcd():
  print("GCD of two numbers is:",GCD)
 */
 ```
-##SAMPLE input:
+## SAMPLE input:
+
 ![gcd](https://github.com/Rohithravi333/GCD-of-two-numbers/assets/119394126/30ff3aac-3d8d-4af5-bbde-c3ef4c737233)
 
 ## Output:
